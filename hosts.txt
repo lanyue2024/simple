@@ -39,7 +39,7 @@ onedrive.live.com,  127.0.0.1:9082, web.fe.1drv.com:443, www.azureedge.net
 
 ################
 ### steamcommunity
-steamcommunity.com,  127.0.0.1:9082, help.steampowered.com:443,
+steamcommunity.com,  127.0.0.1:9082, 104.68.104.163:443,
 
 ################
 ### wikipedia
