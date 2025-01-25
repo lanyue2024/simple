@@ -24,7 +24,8 @@ youtube.com,              127.0.0.1:9081, 126.123.221.28:10689, fonts.gstatic.co
 
 ###################
 ### docker
-hub.docker.com,                    127.0.0.1:9082, docker.io:443,
+hub.docker.com,                    127.0.0.1:9082, elb-default.us-east-1.aws.dckr.io:443,
+*.docker.io,                       127.0.0.1:9082, elb-default.us-east-1.aws.dckr.io:443,
 production.cloudflare.docker.com,  127.0.0.1:9082, 104.16.99.215:443,
 
 #################
