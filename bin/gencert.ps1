@@ -60,6 +60,4 @@ $allhosts = $hosts + "localhost"
 Remove-Item "${out}/${cert}.*" -Force
 bin/certstrap.exe --depot-path="$out" request-cert --passphrase="" --common-name="$cert" --domain="$allhosts"
 bin/certstrap.exe --depot-path="$out" sign "$cert" --passphrase="" --expires="$cert_expires" --CA="$ca" 
-
 Echo ""
-Echo "启动nginx..."
