@@ -11,15 +11,15 @@
 
 ###################
 ### google
-google.com,               127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-*.google.com,             127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-*.gstatic.com,            127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-*.googleapis.com,         127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-*.googleusercontent.com,  127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-youtube.com,              127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-*.youtube.com,            127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-*.ytimg.com,              127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
-*.ggpht.com,              127.0.0.1:9081, 58.233.169.184:30021, fonts.gstatic.com
+google.com,               127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+*.google.com,             127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+*.gstatic.com,            127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+*.googleapis.com,         127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+*.googleusercontent.com,  127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+youtube.com,              127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+*.youtube.com,            127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+*.ytimg.com,              127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+*.ggpht.com,              127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
 *.googlevideo.com,        127.0.0.1:9083,,
 
 ###################
