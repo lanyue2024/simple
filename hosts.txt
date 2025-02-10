@@ -11,16 +11,21 @@
 
 ###################
 ### google
-google.com,               127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-*.google.com,             127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-*.gstatic.com,            127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-*.googleapis.com,         127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-*.googleusercontent.com,  127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-youtube.com,              127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-*.youtube.com,            127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-*.ytimg.com,              127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
-*.ggpht.com,              127.0.0.1:9081, 20.2.33.167:10459, fonts.gstatic.com
+google.com,               127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.google.com,             127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.gstatic.com,            127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.googleapis.com,         127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.googleusercontent.com,  127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+
+youtube.com,              127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.youtube.com,            127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.ytimg.com,              127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.ggpht.com,              127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
 *.googlevideo.com,        127.0.0.1:9083,,
+
+*.cloud.google.com,                  127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.clients6.google.com,               127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
+*.cloudshell.googleusercontent.com,  127.0.0.1:9081, 137.184.12.170:9900, fonts.gstatic.com
 
 ###################
 ### docker
