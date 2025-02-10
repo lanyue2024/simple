@@ -57,9 +57,16 @@ maps.wikimedia.org,    127.0.0.1:9082, 208.80.153.240:443,
 
 ##################
 ### reddit
-*.reddit.com,              127.0.0.1:9082, 199.232.241.140:443,
-reddit.com,                127.0.0.1:9082, 199.232.241.140:443,
-*.redd.it,                 127.0.0.1:9082, 199.232.241.140:443, reddit.com
-*.redditmedia.com,         127.0.0.1:9082, 199.232.241.140:443, reddit.com
-*.redditstatic.com,        127.0.0.1:9082, 199.232.241.140:443, reddit.com
-*.thumbs.redditmedia.com,  127.0.0.1:9082, 199.232.241.140:443, reddit.com
+*.reddit.com,              127.0.0.1:9082, fastly.com:443, fastly.com
+reddit.com,                127.0.0.1:9082, fastly.com:443, fastly.com
+*.redd.it,                 127.0.0.1:9082, fastly.com:443, fastly.com
+*.redditmedia.com,         127.0.0.1:9082, fastly.com:443, fastly.com
+*.redditstatic.com,        127.0.0.1:9082, fastly.com:443, fastly.com
+*.thumbs.redditmedia.com,  127.0.0.1:9082, fastly.com:443, fastly.com
+
+##################
+### github
+github.com,               127.0.0.1:9082, 140.82.113.4:443,
+github.githubassets.com,  127.0.0.1:9082, fastly.com:443, fastly.com
+*.githubusercontent.com,  127.0.0.1:9082, fastly.com:443, fastly.com
+
